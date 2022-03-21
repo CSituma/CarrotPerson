@@ -1,2 +1,3 @@
 # CarrotPerson
-NFT
+
+Official CarrotPerson Site
